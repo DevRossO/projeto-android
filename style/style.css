@@ -49,7 +49,7 @@ main p {
 main strong {
     color: var(--cor5);
     font-weight: bold;
-    font-size: 1.1em;
+    font-size: 1.1rem;
 }
 
 main a {
